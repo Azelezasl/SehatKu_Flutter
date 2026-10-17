@@ -1,13 +1,15 @@
 # SehatKu 🌿
 
-**Pendamping kebiasaan sehat harian** — proyek aplikasi mobile Flutter untuk **SDG 3: Kehidupan Sehat dan Sejahtera**.
+**Pendamping kebiasaan sehat harian** — proyek aplikasi mobile Flutter 
 
 > **Kelompok:** Endless  
-> **Anggota:** Wesley (241111300) dan Michael (241112834)
+> **Anggota:** Wesley (241111300) Michael (241112834)
 
 ## 1. Ringkasan proyek
 
-SehatKu dibuat untuk membantu pelajar, mahasiswa, dan pekerja muda membangun kebiasaan sehat secara sederhana dan konsisten. Proposal proyek mengidentifikasi empat kebiasaan utama: minum air, tidur, olahraga, serta konsumsi sayur/buah. Aplikasi juga menyediakan statistik 7 hari, jurnal suasana hati, kalkulator BMI, edukasi kesehatan, profil/pengingat, dan mode gelap.
+SehatKu adalah aplikasi mobile berbasis Flutter yang dirancang untuk membantu pengguna membangun dan mempertahankan kebiasaan hidup sehat melalui pencatatan kebiasaan harian, pemantauan progres, refleksi suasana hati, kalkulator BMI, edukasi kesehatan, serta pengaturan profil dan pengingat.
+
+Aplikasi ini dibuat sebagai proyek kelompok untuk menerapkan materi pengembangan aplikasi Flutter, khususnya widget dasar, layout, Material Design 3, reusable widget, asset, struktur project Flutter, dan responsive UI.
 
 ## 2. Fitur yang sudah diimplementasikan
 
