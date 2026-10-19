@@ -29,22 +29,22 @@ Aplikasi ini dibuat sebagai proyek kelompok untuk menerapkan materi pengembangan
 Preview berikut dibuat sebagai dokumentasi tampilan halaman berdasarkan implementasi Flutter di `lib/main.dart`.
 
 ### Beranda
-![Beranda](assets/screenshots/01_beranda.png)
+<img width="800" height="1280" alt="01_beranda" src="https://github.com/user-attachments/assets/b48db78d-e1d3-46a1-84e0-3b10910612bb" />
 
 ### Statistik
-![Statistik](assets/screenshots/02_statistik.png)
+<img width="800" height="1280" alt="02_statistik" src="https://github.com/user-attachments/assets/66ea6f1a-6a7b-4224-8826-8d64bcf8750b" />
 
 ### Jurnal Mood
-![Jurnal Mood](assets/screenshots/03_jurnal.png)
+<img width="800" height="1280" alt="03_jurnal" src="https://github.com/user-attachments/assets/4c1f2591-0360-4c1f-aa15-6fe22daf2e42" />
 
 ### Edukasi
-![Edukasi](assets/screenshots/04_edukasi.png)
+<img width="800" height="1280" alt="04_edukasi" src="https://github.com/user-attachments/assets/ccc883bd-9c30-4f18-a302-926d3bd754b7" />
 
 ### Profil & BMI
-![Profil](assets/screenshots/05_profil.png)
+<img width="800" height="1280" alt="05_profil" src="https://github.com/user-attachments/assets/7a4d6395-89d9-41ff-bf0b-eb9fda9b9cd7" />
 
 ### Mode Gelap
-![Mode Gelap](assets/screenshots/06_dark_mode.png)
+<img width="800" height="1280" alt="06_dark_mode" src="https://github.com/user-attachments/assets/d381552d-5231-40ce-8e57-ffce2323725a" />
 
 ## 4. 👤 Target Pengguna
 
